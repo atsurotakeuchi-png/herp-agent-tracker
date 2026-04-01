@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+.claude/
+data/
+*.db
+.git
+.env
+*.md
+*.docx
+server.py
